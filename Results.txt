@@ -1,0 +1,8 @@
+Exercise 1 - Programming results:
+  2. Answered responses: 22, Unswered responses: 8
+  3. Reponse with min views: 'How to set the palette Colors from perl script?', with: 17 views
+  4. Oldest response: 'How can I get name of the user executing my Perl script?', created on: 2009-09-04 04:42:30
+  4. Latest response: 'Perl Text Balance extract bracketed returns null no error', created on: 2021-12-14 11:30:20
+  5. Response with the best reputation owner: 'How to combine multiple Unicode properties in perl regex?', with an owner reputation of: 54546 
+  
+Exercise 2 - SQL:
