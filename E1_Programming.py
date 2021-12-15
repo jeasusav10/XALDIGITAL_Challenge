@@ -5,6 +5,7 @@ Created on Tue Dec 14 17:06:32 2021
 XALDIGITAL_Challenge
 Excercise 1. Programming
 
+Python 3.6
 @author: Jesus Anaya
 """
 
