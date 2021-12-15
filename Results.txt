@@ -6,3 +6,7 @@ Exercise 1 - Programming results:
   5. Response with the best reputation owner: 'How to combine multiple Unicode properties in perl regex?', with an owner reputation of: 54546 
   
 Exercise 2 - SQL:
+  1. Benito Juarez, La Paz
+  2. Aeromar, Interjet
+  3. '2021-05-02'
+  4. Aeromar, Interjet
